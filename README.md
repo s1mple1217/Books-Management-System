@@ -1,5 +1,5 @@
 # Books-Management-System
-基于Spring+SpringMVC+Vue+ElementUI+JSP+MyBatis等技术，纯注解开发，实现管理员对书的增删改查和用户借书还书的操作。
+基于SSM+Vue+ElementUI+JSP等技术，纯注解开发，实现管理员对书的增删改查和用户借书还书的操作。
 
 ![image](https://user-images.githubusercontent.com/84306317/201513544-1946d38c-1ad6-4301-9f05-afc16febceba.png)
 
